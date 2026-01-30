@@ -1,4 +1,4 @@
-# Sistema de Recomendação (E-commerce) — RetailRocket
+# Sistema de Recomendação (E-commerce) 
 
 Projeto ponta-a-ponta de recomendação para e-commerce com pipeline em duas etapas:
 1) Candidate Generation (ALS)
